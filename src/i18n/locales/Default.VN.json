@@ -1,0 +1,24 @@
+{
+    "dropdownUser": {
+        "profile": "Hồ sơ",
+        "settings": "Cài đặt",
+        "changePassword": "Đổi mật khẩu",
+        "userGuide": "Hướng dẫn",
+        "logout": "Đăng xuất",
+        "info": "Phiên bản"
+    },
+    "table": {
+        "noResult": "Không có kết quả",
+        "search": "Tìm kiếm",
+        "pagination": {
+            "show": "Hiển thị",
+            "to": "đến",
+            "of": "của",
+            "result": "kết quả",
+            "firstPage": "Đầu",
+            "prePage": "Trước",
+            "lastPage": "Cuối",
+            "nextPage": "Tiếp"
+        }
+    }
+}

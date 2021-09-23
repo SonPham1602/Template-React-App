@@ -1,0 +1,10 @@
+{
+    "dropdownUser": {
+        "profile": "Profile",
+        "settings": "Settings",
+        "changePassword": "Change Password",
+        "userGuide": "User Guide",
+        "logout": "Log Out",
+        "info": "Info"
+    }
+}
